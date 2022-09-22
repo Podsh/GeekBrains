@@ -1,0 +1,15 @@
+/Users/lenasadova/Leny/Geek Brains/Examples/bin/Debug/net6.0/Examples
+/Users/lenasadova/Leny/Geek Brains/Examples/bin/Debug/net6.0/Examples.deps.json
+/Users/lenasadova/Leny/Geek Brains/Examples/bin/Debug/net6.0/Examples.runtimeconfig.json
+/Users/lenasadova/Leny/Geek Brains/Examples/bin/Debug/net6.0/Examples.dll
+/Users/lenasadova/Leny/Geek Brains/Examples/bin/Debug/net6.0/Examples.pdb
+/Users/lenasadova/Leny/Geek Brains/Examples/obj/Debug/net6.0/Examples.csproj.AssemblyReference.cache
+/Users/lenasadova/Leny/Geek Brains/Examples/obj/Debug/net6.0/Examples.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lenasadova/Leny/Geek Brains/Examples/obj/Debug/net6.0/Examples.AssemblyInfoInputs.cache
+/Users/lenasadova/Leny/Geek Brains/Examples/obj/Debug/net6.0/Examples.AssemblyInfo.cs
+/Users/lenasadova/Leny/Geek Brains/Examples/obj/Debug/net6.0/Examples.csproj.CoreCompileInputs.cache
+/Users/lenasadova/Leny/Geek Brains/Examples/obj/Debug/net6.0/Examples.dll
+/Users/lenasadova/Leny/Geek Brains/Examples/obj/Debug/net6.0/refint/Examples.dll
+/Users/lenasadova/Leny/Geek Brains/Examples/obj/Debug/net6.0/Examples.pdb
+/Users/lenasadova/Leny/Geek Brains/Examples/obj/Debug/net6.0/Examples.genruntimeconfig.cache
+/Users/lenasadova/Leny/Geek Brains/Examples/obj/Debug/net6.0/ref/Examples.dll
